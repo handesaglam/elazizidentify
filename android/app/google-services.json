@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520132311092",
+    "project_id": "denme-317211",
+    "storage_bucket": "denme-317211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520132311092:android:967dbba770d97226223261",
+        "android_client_info": {
+          "package_name": "com.example.elaziz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520132311092-d2pgv0u4l1loee37mavuah1akhk11hd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqdteN-7A3bzNDeqcyfQpkymERVMHees"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520132311092-d2pgv0u4l1loee37mavuah1akhk11hd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
